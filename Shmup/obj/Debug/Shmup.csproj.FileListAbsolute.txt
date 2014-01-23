@@ -1,0 +1,11 @@
+D:\OpenGL Lessons\Shmup\Shmup\bin\Debug\Shmup.exe
+D:\OpenGL Lessons\Shmup\Shmup\bin\Debug\Shmup.pdb
+D:\OpenGL Lessons\Shmup\Shmup\bin\Debug\OpenTK.dll
+D:\OpenGL Lessons\Shmup\Shmup\bin\Debug\OpenTK.xml
+D:\OpenGL Lessons\Shmup\Shmup\obj\Debug\ResolveAssemblyReference.cache
+D:\OpenGL Lessons\Shmup\Shmup\obj\Debug\Shmup.exe
+D:\OpenGL Lessons\Shmup\Shmup\obj\Debug\Shmup.pdb
+D:\OpenGL Lessons\Shmup\Shmup\bin\Debug\Shmup.exe.config
+D:\OpenGL Lessons\Shmup\Shmup\obj\Debug\Shmup.csproj.GenerateResource.Cache
+D:\OpenGL Lessons\Shmup\Shmup\obj\Debug\Shmup.Menu.resources
+D:\OpenGL Lessons\Shmup\Shmup\obj\Debug\ConsoleApplication1.Properties.Resources.resources

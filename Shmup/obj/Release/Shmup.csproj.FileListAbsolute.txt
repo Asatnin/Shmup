@@ -1,0 +1,12 @@
+D:\OpenGL Lessons\Shmup\Shmup\bin\Release\Shmup.exe
+D:\OpenGL Lessons\Shmup\Shmup\bin\Release\Shmup.pdb
+D:\OpenGL Lessons\Shmup\Shmup\bin\Release\OpenTK.dll
+D:\OpenGL Lessons\Shmup\Shmup\bin\Release\OpenTK.xml
+D:\OpenGL Lessons\Shmup\Shmup\obj\Release\ResolveAssemblyReference.cache
+D:\OpenGL Lessons\Shmup\Shmup\obj\Release\Shmup.exe
+D:\OpenGL Lessons\Shmup\Shmup\obj\Release\Shmup.pdb
+D:\OpenGL Lessons\Shmup\Shmup\bin\Release\Shmup.exe.config
+D:\OpenGL Lessons\Shmup\Shmup\obj\Release\Shmup.csproj.GenerateResource.Cache
+D:\OpenGL Lessons\Shmup\Shmup\obj\Release\Shmup.Menu.resources
+D:\OpenGL Lessons\Shmup\Shmup\obj\Release\ConsoleApplication1.Properties.Resources.resources
+D:\OpenGL Lessons\Shmup\Shmup\bin\Release\bigIcon.ico
